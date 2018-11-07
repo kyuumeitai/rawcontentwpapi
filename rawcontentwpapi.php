@@ -2,7 +2,7 @@
     /*
     Plugin Name: Raw content in WP REST API
     Plugin URI: http://alex.acunaviera.com/
-    Version: 0.1
+    Version: 0.2
     Author: Álex Acuña Viera
     Description: exposes raw content
     Text Domain: derpyderp
